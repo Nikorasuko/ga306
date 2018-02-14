@@ -1,0 +1,5 @@
+1] A function
+2] a pass by pass argument
+3] The single asterisk form (*args) is used to pass a non-keyworded, variable-length argument list, and the double asterisk form is used to pass a keyworded, variable-length argument list.
+4] start, stop, and step
+5] <, <=, >, >=, ==, !=
